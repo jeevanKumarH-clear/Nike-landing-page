@@ -13,7 +13,6 @@ const PopularProducts = () => {
         {products.map((product) => (
           <PopularProductCard key= {product.name} {...product}/>
         ))}
-
       </div>
     </section>
   )
