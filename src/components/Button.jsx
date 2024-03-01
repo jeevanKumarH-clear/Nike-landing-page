@@ -4,10 +4,10 @@ const Button = ({ label, iconURL}) => {
             text-lg leading-none bg-coral-red rounded-full text-white border-coral-red">
         {label}
 
-        <img
+        {iconURL && <img
             src={iconURL}
             alt="Right arrow"
-            className="ml-2 rounded-full w-5 h-5"/>
+            className="ml-2 rounded-full w-5 h-5"/>}
     </button>
   )
 }
