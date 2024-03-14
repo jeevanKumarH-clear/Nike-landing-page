@@ -1,8 +1,12 @@
-# React + Vite
+# Nike Landing page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, elegant and clean looking fully responsive landing page.
 
-Currently, two official plugins are available:
+## Screenshots
+![Shot 1](https://github.com/jeevanKumarH-clear/Nike-landing-page/assets/111953063/9590e846-ff6b-43c1-a5c5-0d56333314c3)
+![Shot 2](https://github.com/jeevanKumarH-clear/Nike-landing-page/assets/111953063/262bdd48-a1d1-4477-89e7-091dd2815520)
+![shot 3](https://github.com/jeevanKumarH-clear/Nike-landing-page/assets/111953063/88b82cb8-63dd-417c-87bd-0a0acd2a7e90)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Deployed Link
+
+https://nike-landing-page-jk.netlify.app/
